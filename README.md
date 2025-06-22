@@ -1,5 +1,4 @@
 # new
 
 the project was created from local system
-created by SAkshi
-Deosale
+created by Arihant Deosale
